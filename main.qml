@@ -6,7 +6,7 @@ Window {
     // version 0.01
     // version 0.02
     // version 0.03
-    // version 0.04a - modified after commit
+    // version 0.04 I screwed up this code
 
     MainForm {
         anchors.fill: parent
