@@ -10,6 +10,8 @@ Window {
     // Modified branch1
     // master
     // Modifies branch1 again
+    // modified subBranch1
+
 
     MainForm {
         anchors.fill: parent
