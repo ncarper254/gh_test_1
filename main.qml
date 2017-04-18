@@ -4,6 +4,7 @@ import QtQuick.Window 2.2
 Window {
     visible: true
     // version 0.01
+    // version 0.02
 
     MainForm {
         anchors.fill: parent
