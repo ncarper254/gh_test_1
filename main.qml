@@ -5,6 +5,7 @@ Window {
     visible: true
     // version 0.01
     // version 0.02
+    // version 0.03
 
     MainForm {
         anchors.fill: parent
