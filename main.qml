@@ -12,7 +12,7 @@ Window {
     // Modifies branch1 again
     // modified subBranch1
     // modify and put in Branch1
-
+    // Making a change to branch1 that should not show in subBranch1
 
     MainForm {
         anchors.fill: parent
