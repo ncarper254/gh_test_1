@@ -10,6 +10,7 @@ Window {
     // Modified branch1
     // master
     // Modifies branch1 again
+    // Making a change to branch1 that should not show in subBranch1
 
     MainForm {
         anchors.fill: parent
